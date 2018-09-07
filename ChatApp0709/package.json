@@ -1,0 +1,20 @@
+{
+  "name": "chatapp0709",
+  "version": "1.0.0",
+  "description": "Sample realtime Anonymous chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ChatGround"
+  ],
+  "author": "BetaPro",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4",
+    "socket.io": "^2.1.1"
+  }
+}
