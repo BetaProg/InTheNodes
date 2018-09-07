@@ -1,0 +1,25 @@
+NODE Cheat sheet:
+---------------------
+
+Creating a file right from console > echo.>file_name.extension
+
+Clearing the console> process.stdout.write('\033c'); {{explore}}
+
+http://semver.org/ {{what's this}}
+
+http://www.tutorialsteacher.com/nodejs/create-nodejs-web-server
+https://www.airpair.com/javascript/node-js-tutorial
+
+
+Node is single-threaded and uses a concurrency model based on an event loop. It is non-blocking, so it doesn't make the program wait, but instead it registers a callback and lets the program continue. This means it can handle concurrent operations without multiple threads of execution, so it can scale pretty well.
+
+https://simpleprogrammer.com/top-4-javascript-concepts-a-node-js-beginner-must-know/
+
+https://www.infoworld.com/article/3196070/node-js/10-javascript-concepts-nodejs-programmers-must-master.html
+
+https://en.wikipedia.org/wiki/Sandbox_(computer_security)
+
+http://nodetoolbox.com/
+http://nodetoolbox.com/packages/markdown
+
+https://openclassrooms.com/en/courses/2504541-ultra-fast-applications-using-node-js/2505444-practical-exercises-the-to-do-list
